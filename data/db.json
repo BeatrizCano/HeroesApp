@@ -13,7 +13,8 @@
       "publisher": "DC Comics",
       "alter_ego": "Bruce Wayne",
       "first_appearance": "Detective Comics #27",
-      "characters": "Bruce Wayne"
+      "characters": "Bruce Wayne",
+      "alt_img": null
     },
     {
       "id": "dc-superman",
@@ -166,6 +167,15 @@
       "alter_ego": "Norrin Radd",
       "first_appearance": "The Fantastic Four #48",
       "characters": "Norrin Radd"
+    },
+    {
+      "id": "W9JwGuh",
+      "superhero": "The Punisher",
+      "publisher": "Marvel Comics",
+      "alter_ego": "Frank Castle",
+      "first_appearance": "The Amazing Spider-Man # 129",
+      "characters": "El Castigador",
+      "alt_img": "https://mir-s3-cdn-cf.behance.net/project_modules/disp/e58b4058175475.59f202fd6ecac.jpg"
     }
   ]
 }
