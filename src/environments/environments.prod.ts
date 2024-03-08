@@ -1,4 +1,4 @@
 
-export const environments = {
-  baseUrl: 'http://fernando-herrera.com/api'
-}
+// export const environments = {
+//   baseUrl: 'http://fernando-herrera.com/api'
+// }
